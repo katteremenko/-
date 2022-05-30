@@ -1,0 +1,19 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\bin\Debug\triangleRasterization.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\bin\Debug\triangleRasterization.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\bin\Debug\triangleRasterization.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.pdb
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\bin\Debug\triangleRasterization.exe.config
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\bin\Debug\triangleRasterization.exe
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\bin\Debug\triangleRasterization.pdb
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.csproj.AssemblyReference.cache
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.Form1.resources
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.Properties.Resources.resources
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.csproj.GenerateResource.cache
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.csproj.CoreCompileInputs.cache
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.exe
+C:\Users\katte\Downloads\triangleRasterization\triangleRasterization\obj\Debug\triangleRasterization.pdb
